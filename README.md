@@ -22,12 +22,15 @@ User Voice → Microphone → Speech Recognition → NLP → Intent Detection �
 <img width="561" height="683" alt="image" src="https://github.com/user-attachments/assets/f6f22205-a35a-4ec4-bdf3-00ae718a71e8" />
 
 **AI-ENABLED SMART SPEAKERS**
+
 Examples:
 •	Amazon Echo – Alexa 
 •	Google Nest – Google Assistant 
 •	Apple HomePod – Siri 
 •	Samsung SmartThings-compatible speakers
-** CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS**
+
+**CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS**
+
 1.	Voice Interaction :Communicates with users through voice commands. 
 2.	Speech Recognition :Converts spoken words into text. 
 3.	Natural Language Understanding :Understands the meaning of user commands. 
@@ -40,6 +43,7 @@ Examples:
 10.	Continuous Learning :AI models improve their performance using data and user feedback.
     
 **RELATED AI TOOLS / TECHNOLOGIES**
+
 •	Machine Learning (ML) :Learns patterns from user interactions. 
 •	Deep Learning (DL) :Used for speech and language understanding. 
 •	Natural Language Processing (NLP): Understands human language. 
