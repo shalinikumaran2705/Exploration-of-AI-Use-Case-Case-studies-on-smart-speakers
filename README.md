@@ -20,8 +20,8 @@ User Voice → Microphone → Speech Recognition → NLP → Intent Detection �
 # SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
 <img width="672" height="269" alt="image" src="https://github.com/user-attachments/assets/fc33b596-b795-4e5a-91d0-16dac76a8774" />
 <img width="561" height="683" alt="image" src="https://github.com/user-attachments/assets/f6f22205-a35a-4ec4-bdf3-00ae718a71e8" />
-**
-AI-ENABLED SMART SPEAKERS**
+
+**AI-ENABLED SMART SPEAKERS**
 Examples:
 •	Amazon Echo – Alexa 
 •	Google Nest – Google Assistant 
@@ -53,4 +53,4 @@ Examples:
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining speech recognition, NLP, machine learning, and text-to-speech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
 
 # RESULT:
-Thus the given experiment is executed.
+The application of Artificial Intelligence in smart speakers was studied successfully. The roles of Natural Language Processing (NLP), Speech Recognition, Machine Learning, and Voice Assistant technology in understanding user commands and providing intelligent services were understood.
